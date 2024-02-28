@@ -29,6 +29,7 @@ function showResume() {
         <div class="resume-entry">
             <h3>Credera - Through Paragon One - Remote</h3> <br>
             <h4>Data Analyst Remote Extern  June 19, 2023 — August 14, 2023</h4> <br>
+            (<a href="https://www.credera.com/en-us/" target="_blank">Link</a>)
             
             <p>Received an outstanding completion on DE&I Consulting & Data Analytics remote externship.</p>
             <p>Created Credera's Cultural Competency & Global Best Practices Guide by researching the customs, laws, beliefs, and workplace practices of a given region.</p>
@@ -39,6 +40,7 @@ function showResume() {
 
         <div class="resume-entry">
             <h3>Luther College Technology Help Desk - Decorah Iowa, USA</h3> <br>
+            (<a href="https://www.luther.edu/offices/its/help-desk">Link</a>)
 
             <h4>Student Manager 09/2023 - Present</h4> <br>
             <p>Provided employee training.</p>
@@ -51,6 +53,7 @@ function showResume() {
             <p>Took leadership of team building in the workplace.</p>
             <p>Experience using LDAP, ADFS, and general desktop application support such as MFA.</p>
             <p>Carry out project work for business processes such as email migrations.</p>
+            
         </div>
     `;
 }
