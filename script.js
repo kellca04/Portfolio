@@ -11,11 +11,11 @@ function showAbout() {
             
             <p>Having recently started as a Software Engineer at Scale AI (<a href="https://scale.com/" target="_blank">Link</a>), I am excited to expand my knowledge further in differing fields.</p>
             
-            <p>I am also a Student Manager at the Technology Help Desk at Luther College, where I lead a team of technicians to provide technical support and assistance to the college community.</p>
+            <p>I am also a Student Manager at the Technology Help Desk at Luther College (<a href="https://www.luther.edu/offices/its/help-desk">Link</a>), where I lead a team of technicians to provide technical support and assistance to the college community.</p>
             
-            <p>I am pursuing a Bachelor of Arts degree in Computer Science and Data Science at Luther College, with a specialization in Biology. I am passionate about learning and exploring the intersections and applications of these fields in various domains and contexts.</p>
+            <p>I am pursuing a Bachelor of Arts degree in Computer Science and Data Science at Luther College (<a href="https://www.luther.edu/" target="_blank">Link</a>), with a specialization in Biology. I am passionate about learning and exploring the intersections and applications of these fields in various domains and contexts.</p>
             
-            <p>In August 2023, I completed a Data Analysis and DE&I externship with Credera, achieving an Outstanding Completion status and gaining valuable insights and experience in data-driven decision-making and diversity, equity, and inclusion practices.</p>
+            <p>In August 2023, I completed a Data Analysis and DE&I externship with Credera (<a href="https://www.credera.com/en-us/" target="_blank">Link</a>) , achieving an Outstanding Completion status and gaining valuable insights and experience in data-driven decision-making and diversity, equity, and inclusion practices.</p>
         </div>
     `;
 }  
