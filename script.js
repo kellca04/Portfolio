@@ -9,7 +9,7 @@ function showAbout() {
         <div class="about-content">
             <p>My life's journey has been a diverse one, starting in Essex, England, and taking me through my formative years in Ireland. It was during this time, particularly at the North Atlantic Basketball Academy in Dublin, that I cultivated valuable lessons in effective communication and unwavering commitment.</p>
             
-            <p>Having recently started as a Software Engineer at Scale AI, I am excited to expand my knowledge further in differing fields.</p>
+            <p>Having recently started as a Software Engineer at Scale AI (<a href="https://scale.com/" target="_blank">Link</a>), I am excited to expand my knowledge further in differing fields.</p>
             
             <p>I am also a Student Manager at the Technology Help Desk at Luther College, where I lead a team of technicians to provide technical support and assistance to the college community.</p>
             
@@ -18,7 +18,7 @@ function showAbout() {
             <p>In August 2023, I completed a Data Analysis and DE&I externship with Credera, achieving an Outstanding Completion status and gaining valuable insights and experience in data-driven decision-making and diversity, equity, and inclusion practices.</p>
         </div>
     `;
-}
+}  
 
 function showResume() {
     document.getElementById('dynamic-content').innerHTML = `
