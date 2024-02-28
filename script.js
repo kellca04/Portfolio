@@ -71,8 +71,8 @@ function showProjects() {
             <p>This project showcases my skills in game development, artificial intelligence, and genetic modeling, offering a visually striking and scientifically intriguing experience</p>
             <p> This project is still in production with the next step being to begin training the learning algorithm through runs.</p>
             <br>
-            <p> You can find more information about my plan - <a href="https://docs.google.com/document/d/1ce3v2fygNq6533p6OIHKKmYzPSEoWx7SNMXCQaretes/edit?usp=sharing" target="_blank">Here</a></p>
-            <p> You can find more information about my progress - <a href="https://docs.google.com/document/d/1eYpTyFt4KuzoSmvijDw6Yzi4jNtoSnYEpKIATypI4HQ/edit?usp=sharing" target="_blank">Here</a></p>
+            <p> You can find more information about my plan - <a href="https://docs.google.com/document/d/1ce3v2fygNq6533p6OIHKKmYzPSEoWx7SNMXCQaretes/edit?usp=sharing" target="_blank">Click Here</a></p>
+            <p> You can find more information about my progress - <a href="https://docs.google.com/document/d/1eYpTyFt4KuzoSmvijDw6Yzi4jNtoSnYEpKIATypI4HQ/edit?usp=sharing" target="_blank">Click Here</a></p>
             <br><br><br>
             <h3 class="project-title">Organisational Board Website</h3><br>
             <p> For a final project, myself and another study decided to work on an organizational board website similar to Trello.</p>
