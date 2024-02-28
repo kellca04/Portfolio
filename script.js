@@ -83,10 +83,10 @@ function showProjects() {
             <p> During my Data Analytics Externship with Credera, I was tasked with using analytical skills to determine if the German city ,Sturrgart was a viable place for the company to start an office space.</p>
             <p> During this experience I honed my skills in both Excel and Tableau</p>
             <p> Unfortunately due to this working being for Credera I am unable to provide more information on this project</p>
+            <br><br><br>
              <h3 class="project-title">Damselfish Territorial Behavior Marine Biology Research Paper</h3><br>
             <p> During January 2024, I along with a class of student travelled to Roatan, Honduras in order to collect and analyze data.</p>
-            <p> This involved 2-3 dives a day for 2 weeks.</p>
-            <p> My group sought to determine if the territorial behavior of <i>Stegastes adustus</i> changes depending on the depth that they are inhabiting, with consideration of algal growth levels at differing depths. </p>
+            <p> This involved 2-3 dives a day for 2 weeks in which my group sought to determine if the territorial behavior of <i>Stegastes adustus</i> changes depending on the depth that they are inhabiting, with consideration of algal growth levels at differing depths. </p>
             <p> If you would like to read more about this - <a href="https://docs.google.com/document/d/1BjhMcaZTAxmYXIHA7c45NvoD38YDB3sYOGCxeU5fkO0/edit?usp=sharing" target="_blank">Click Here</a></p>
         </div>
     `;
