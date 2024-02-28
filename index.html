@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Your Portfolio</title>
+</head>
+<body>
+    <div class="banner" id="home">
+        Projects
+        <div class="overlay"></div>
+        <div class="banner-content">
+            <h1>Casey Kellett Whitwham</h1>
+            <p>Computer Science and Data Science with specialization in Biology</p>
+        </div>
+    </div>
+
+    <div class="section" id="about">
+        <div class="section-content">
+            <div class="buttons-container">
+                <button type="button" class="btn btn-secondary" style="background-color: #444; color: #79e4ff;" onclick="showAbout()">About Myself</button>
+                <button type="button" class="btn btn-secondary" style="background-color: #444; color: #79e4ff;" onclick="showResume()">Resume</button>
+                <button type="button" class="btn btn-secondary" style="background-color: #444; color: #79e4ff;" onclick="showProjects()">Projects</button>
+                <button type="button" class="btn btn-secondary" style="background-color: #444; color: #79e4ff;" onclick="showContact()">Contact</button>
+            </div>
+            
+            <div id="dynamic-content"></div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
