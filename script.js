@@ -9,7 +9,7 @@ function showAbout() {
         <div class="about-content">
             <p>My life's journey has been a diverse one, starting in Essex, England, and taking me through my formative years in Ireland. It was during this time, particularly at the North Atlantic Basketball Academy in Dublin, that I cultivated valuable lessons in effective communication and unwavering commitment.</p>
             
-            <p>Having recently started as a Software Engineer at Scale AI, I am excided to expand my knowledge further in differing fields.</p>
+            <p>Having recently started as a Software Engineer at Scale AI, I am excited to expand my knowledge further in differing fields.</p>
             
             <p>I am also a Student Manager at the Technology Help Desk at Luther College, where I lead a team of technicians to provide technical support and assistance to the college community.</p>
             
